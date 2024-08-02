@@ -8,8 +8,8 @@ https://www.youtube.com/@VorterixOficial/live
 America TV | Argentina | https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png |
 https://www.youtube.com/@americaenvivo/live
 
-AE | USA | https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/150px-A%26E_Network_logo.svg.png |
-https://thetvapp.to/tv/ae-live-stream/
+CBS | USA | https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/150px-A%26E_Network_logo.svg.png |
+https://tv247.us/watch/cbs-free-stream/
 
 Telemax | Argentina | https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png |
 https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
