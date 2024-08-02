@@ -25,7 +25,7 @@
     "launched": "2016-07-28",
     "closed": "2020-05-31",
     "replaced_by": "",
-    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1722597727/ei/_2ysZtyLAbrBsfIP2qCUsQQ/ip/52.238.28.67/id/zcWXboTnous.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-a5mekn6z.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/us/spc/NO7bAY3Nv5MXociyTdX9lQEX94cWZdGlQQVyKfNFQ-qcGf89DUMp84kP1G8QD_E/vprv/1/playlist_type/DVR/mh/sM/mm/44/mn/sn-a5mekn6z/ms/lva/mv/u/mvi/1/pl/22/dover/11/pacing/0/keepalive/yes/mt/1722575753/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,gcr,spc,vprv,playlist_type/sig/AJfQdSswRgIhANSjmxomf-8QQI1dOWJ5SJevILnWaJBO8vNbcWiiGbe8AiEAq9fU-s4_x1_292LEE-lhfFvb2qn49t96jNTk7tNJmJ4%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AGtxev0wRgIhAOrSXQHrTVAw0vYkakWW7NapRwefM0WJVW53_1Qd8ojuAiEAnRP6Kj_3BZ5dRaQlFPWhX0NXImbmLH9nbJM66hQ2xYM%3D/playlist/index.m3u8",
+    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1722598772/ei/FHGsZo-BB6qIkucP9vHv6Qc/ip/20.75.95.244/id/zcWXboTnous.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-p5qlsn7d.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/us/spc/NO7bAfiY3gomtGI2y194fq7et2S466djXr2VnGAWEMOC1Qgdfwon9zCQOROS6n8/vprv/1/playlist_type/DVR/initcwndbps/3640000/mh/sM/mm/44/mn/sn-p5qlsn7d/ms/lva/mv/m/mvi/4/pl/16/dover/11/pacing/0/keepalive/yes/mt/1722576772/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,gcr,spc,vprv,playlist_type/sig/AJfQdSswRgIhAKZwZfEd8v7DO1re2hyUkYFPdJa4-s6_X5l0pIV-JFFPAiEAxi_d2G9HFjRZLhLOearmWD4848nkqf5tEpmV8Sr7lqw%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AGtxev0wRgIhAIX_lwbS1o8WIU8nuFNC9Ot_QgISI1ps0oBMBNQLR28OAiEA3zYqaoT3iSnVGPT2nCr_raJ6bl6Xg9OIA4OVyV74dmo%3D/playlist/index.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png"
   },
   {
@@ -54,7 +54,36 @@
     "launched": "2016-07-28",
     "closed": "2020-05-31",
     "replaced_by": "",
-    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1722597728/ei/AG2sZriBE7D4sfIP7YfasQo/ip/52.238.28.67/id/_uMuuHk_KkQ.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-a5mekn6k.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/NO7bAfEROSXlLsJbCBTn-wplA7-eoPKBj5iKM9MRA-0moISISUo_1KRBTGBKHQ4/vprv/1/playlist_type/DVR/mh/gu/mm/44/mn/sn-a5mekn6k/ms/lva/mv/u/mvi/4/pl/22/dover/11/pacing/0/keepalive/yes/mt/1722575753/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhAPjp1QG-2laqSBsc0jq8LhysUiSNErqWtviYnQmYSC4vAiA0k3ZltEONgzYqHtMxbMwzklITHj55hvKQ52rn_MvXlQ%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AGtxev0wRQIhAI06FAqdcRo6Q24tgdrg11ns1rAS-Uidq3Tx3dSXzaoIAiAl8OtOZ_GGxOm14jJKRifQf4FR9d1QIPLyFiVC2GWEJw%3D%3D/playlist/index.m3u8",
+    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1722598772/ei/FHGsZsLRMteBkucPme_e2Qk/ip/20.75.95.244/id/_uMuuHk_KkQ.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-p5qlsn76.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/NO7bAQa5F4iG_OM8c-1sXNeF1au1ApiusT7zCG3FVtqeTK9twDnt_V7LqQmZeRQ/vprv/1/playlist_type/DVR/initcwndbps/3640000/mh/gu/mm/44/mn/sn-p5qlsn76/ms/lva/mv/m/mvi/4/pl/16/dover/11/pacing/0/keepalive/yes/mt/1722576772/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgUebjoPY42fA9XJO5f_IVQlwZksSDj9nPnLh6RGX3lWUCIENtj8Dbln7WJ9YSsKX_TidsyxOumTavjUV9fkEI8KkH/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AGtxev0wRAIgBPtf_-X_uPfSFU6D9SZofQ1CmXqipKMS-zqGINdaDjECIC_6E-z3yKOJ2FbXjCoI1BRAltqN1IPNAerP2aT926bl/playlist/index.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png"
+  },
+  {
+    "id": "",
+    "name": "ABC 7 New York",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Usa"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://ustvgo.live/abc-7-new-york/",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WABC-TV-Logo-2021.png/175px-WABC-TV-Logo-2021.png"
   }
 ]
