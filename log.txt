@@ -1,4 +1,4 @@
-2024-10-08 03:21:41,424 - debug - URL Streams https://www.youtube.com/@VorterixOficial/live: {}
-2024-10-08 03:21:42,072 - debug - URL Streams https://www.youtube.com/@americaenvivo/live: {}
-2024-10-08 03:21:42,151 - error - URL Error No PluginError https://tv247.us/watch/cbs-free-stream/: 
-2024-10-08 03:22:12,672 - error - URL Error https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8: HTTPSConnectionPool(host='live-edge01.telecentro.net.ar', port=443): Read timed out. (read timeout=15)
+2024-10-08 06:20:18,051 - debug - URL Streams https://www.youtube.com/@VorterixOficial/live: {}
+2024-10-08 06:20:18,643 - debug - URL Streams https://www.youtube.com/@americaenvivo/live: {}
+2024-10-08 06:20:18,789 - error - URL Error No PluginError https://tv247.us/watch/cbs-free-stream/: 
+2024-10-08 06:20:50,665 - error - URL Error https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8: HTTPSConnectionPool(host='live-edge01.telecentro.net.ar', port=443): Read timed out. (read timeout=15)
