@@ -1,4 +1,3 @@
-2025-01-14 21:12:55,882 - debug - URL Streams https://www.youtube.com/@VorterixOficial/live: {}
-2025-01-14 21:12:56,352 - debug - URL Streams https://www.youtube.com/@americaenvivo/live: {}
-2025-01-14 21:12:56,424 - error - URL Error No PluginError https://tv247.us/watch/cbs-free-stream/: 
-2025-01-14 21:13:26,717 - error - URL Error https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8: HTTPSConnectionPool(host='live-edge01.telecentro.net.ar', port=443): Max retries exceeded with url: /live/smil:tlx.smil/playlist.m3u8 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fd1f0c73790>, 'Connection to live-edge01.telecentro.net.ar timed out. (connect timeout=15)'))
+2025-01-15 01:06:09,622 - debug - URL Streams https://www.youtube.com/@VorterixOficial/live: {}
+2025-01-15 01:06:10,119 - debug - URL Streams https://www.youtube.com/@americaenvivo/live: {}
+2025-01-15 01:06:10,183 - error - URL Error No PluginError https://tv247.us/watch/cbs-free-stream/: 
