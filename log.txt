@@ -1,4 +1,4 @@
-2025-01-22 09:14:50,777 - debug - URL Streams https://www.youtube.com/@VorterixOficial/live: {}
-2025-01-22 09:14:51,386 - debug - URL Streams https://www.youtube.com/@americaenvivo/live: {}
-2025-01-22 09:14:51,484 - error - URL Error No PluginError https://tv247.us/watch/cbs-free-stream/: 
-2025-01-22 09:14:52,038 - error - URL Error https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8: HTTPSConnectionPool(host='live-edge01.telecentro.net.ar', port=443): Max retries exceeded with url: /live/smil:tlx.smil/playlist.m3u8 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fdd154acc80>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-01-22 12:28:08,182 - debug - URL Streams https://www.youtube.com/@VorterixOficial/live: {}
+2025-01-22 12:28:08,663 - debug - URL Streams https://www.youtube.com/@americaenvivo/live: {}
+2025-01-22 12:28:08,757 - error - URL Error No PluginError https://tv247.us/watch/cbs-free-stream/: 
+2025-01-22 12:28:09,426 - error - URL Error https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8: HTTPSConnectionPool(host='live-edge01.telecentro.net.ar', port=443): Max retries exceeded with url: /live/smil:tlx.smil/playlist.m3u8 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f9e04a1cc80>: Failed to establish a new connection: [Errno 111] Connection refused'))
