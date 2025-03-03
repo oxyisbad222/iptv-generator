@@ -1,3 +1,4 @@
-2025-03-03 09:17:12,689 - debug - URL Streams https://www.youtube.com/@VorterixOficial/live: {}
-2025-03-03 09:17:13,351 - debug - URL Streams https://www.youtube.com/@americaenvivo/live: {}
-2025-03-03 09:17:13,413 - error - URL Error No PluginError https://tv247.us/watch/cbs-free-stream/: 
+2025-03-03 12:29:45,854 - debug - URL Streams https://www.youtube.com/@VorterixOficial/live: {}
+2025-03-03 12:29:46,479 - debug - URL Streams https://www.youtube.com/@americaenvivo/live: {}
+2025-03-03 12:29:46,557 - error - URL Error No PluginError https://tv247.us/watch/cbs-free-stream/: 
+2025-03-03 12:29:47,053 - debug - URL Streams https://tv247.us/watch/cbs-free-stream/: <Response [200]>
